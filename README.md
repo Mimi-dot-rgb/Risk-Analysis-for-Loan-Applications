@@ -14,4 +14,4 @@ This project analyzes loan application data to identify risk factors, trends, an
 - **Dataset**: Cleaned loan application data
 
 ## How to Use This Project
-Open the Jupyter Notebook file (Risk_Analysis_Project.ipynb) to view the step-by-step analysis and results.
+Open the Jupyter Notebook file (Risk_Prediction_Analysis.ipynb) to view the step-by-step analysis and results.
